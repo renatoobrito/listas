@@ -1,0 +1,668 @@
+{
+  "#text": "Nada pra se ler aqui!",
+  "personagens-por-sobrenome": {
+    "a": {
+      "persona": {
+        "@nome": "Hanna Abbott"
+      }
+    },
+    "b": [{
+        "@nome": "Ludo Bagman"
+      },
+      {
+        "@nome": "Bathilda Bagshot"
+      },
+      {
+        "@nome": "Katie Bell"
+      },
+      {
+        "@nome": "Cuthbert Binns"
+      },
+      {
+        "@nome": "Phineas Nigellus Black"
+      },
+      {
+        "@nome": "Sirius Black"
+      },
+      {
+        "@nome": "Walburga Black"
+      },
+      {
+        "@nome": "Amelia Bones"
+      },
+      {
+        "@nome": "Susan Bones"
+      },
+      {
+        "@nome": "Terry Boot"
+      },
+      {
+        "@nome": "Lavender Brown"
+      },
+      {
+        "@nome": "Millicent Bulstrode"
+      },
+      {
+        "@nome": "Charity Burbage"
+      },
+      {
+        "@nome": "Frank Bryce"
+      }
+    ],
+    "c": [{
+        "@nome": "Alecto Carrow"
+      },
+      {
+        "@nome": "Amycus Carrow"
+      },
+      {
+        "@nome": "Reginald Cattermole"
+      },
+      {
+        "@nome": "Cho Chang"
+      },
+      {
+        "@nome": "Penelope Clearwater"
+      },
+      {
+        "@nome": "Mrs. Corner"
+      },
+      {
+        "@nome": "Michael Corner"
+      },
+      {
+        "@nome": "Crabbe"
+      },
+      {
+        "@nome": "Vicent Crabbe"
+      },
+      {
+        "@nome": "Colin Creevey"
+      },
+      {
+        "@nome": "Dennis Creevey"
+      },
+      {
+        "@nome": "Dirky Cresswell"
+      },
+      {
+        "@nome": "Barty Crouch Sr."
+      },
+      {
+        "@nome": "Barty Crouch Jr."
+      }
+    ],
+    "d": [{
+        "@nome": "Roger Davis"
+      },
+      {
+        "@nome": "John Dawlish"
+      },
+      {
+        "@nome": "Fleur Delacour"
+      },
+      {
+        "@nome": "Gabrielle Delacour"
+      },
+      {
+        "@nome": "Dedalus Diggle"
+      },
+      {
+        "@nome": "Amos Diggory"
+      },
+      {
+        "@nome": "Cedric Diggory"
+      },
+      {
+        "@nome": "Elphias Doge"
+      },
+      {
+        "@nome": "Antonin Dolohov"
+      },
+      {
+        "@nome": "Aberforth Dumbledore"
+      },
+      {
+        "@nome": "Albus Dumbledore"
+      },
+      {
+        "@nome": "Ariana Dumbledore"
+      },
+      {
+        "@nome": "Kendra Dumbledore"
+      },
+      {
+        "@nome": "Percival Dumbledore"
+      },
+      {
+        "@nome": "Dudley Dursley"
+      },
+      {
+        "@nome": "Marge Dursley"
+      },
+      {
+        "@nome": "Petunia Dursley"
+      },
+      {
+        "@nome": "Vernon Dursley"
+      }
+    ],
+    "e": {
+      "persona": {
+        "@nome": "Marietta Edgecombe"
+      }
+    },
+    "f": [{
+        "@nome": "Arabella Figg"
+      },
+      {
+        "@nome": "Argus Filch"
+      },
+      {
+        "@nome": "Justin Finch-Fletchley"
+      },
+      {
+        "@nome": "Seamus Finnigan"
+      },
+      {
+        "@nome": "Marcus Flint"
+      },
+      {
+        "@nome": "Mundungus Fletcher"
+      },
+      {
+        "@nome": "Filius Flitwick"
+      },
+      {
+        "@nome": "Florean Fortescue"
+      },
+      {
+        "@nome": "Cornelius Fudge"
+      }
+    ],
+    "g": [{
+        "@nome": "Marvolo Gaunt"
+      },
+      {
+        "@nome": "Merope Gaunt"
+      },
+      {
+        "@nome": "Morfin Gaunt"
+      },
+      {
+        "@nome": "Anthony Goldstein"
+      },
+      {
+        "@nome": "Goyle"
+      },
+      {
+        "@nome": "Gregory Goyle"
+      },
+      {
+        "@nome": "Hermione Granger"
+      },
+      {
+        "@nome": "Fenrir Greyback"
+      },
+      {
+        "@nome": "Gellert Grindewald"
+      },
+      {
+        "@nome": "Wilhelmina Grubbly-Plank"
+      }
+    ],
+    "h": [{
+        "@nome": "Rubeus Hagrid"
+      },
+      {
+        "@nome": "Rolanda Hooch"
+      },
+      {
+        "@nome": "Mafalda Hopkirk"
+      }
+    ],
+    "j": [{
+        "@nome": "Angelina Johsons"
+      },
+      {
+        "@nome": "Lee Jordan"
+      }
+    ],
+    "k": [{
+        "@nome": "Igor Karkaroff"
+      },
+      {
+        "@nome": "Viktor Krum"
+      },
+      {
+        "@nome": "Silvanus Kettleburn"
+      }
+    ],
+    "l": [{
+        "@nome": "Bellatrix Lestrange"
+      },
+      {
+        "@nome": "Rebastan Lestrange"
+      },
+      {
+        "@nome": "Rodolphus Lestrange"
+      },
+      {
+        "@nome": "Gilderoy Lockhart"
+      },
+      {
+        "@nome": "Alice Longbottom"
+      },
+      {
+        "@nome": "Frank Longbottom"
+      },
+      {
+        "@nome": "Augusta Longbottom"
+      },
+      {
+        "@nome": "Neville Longbottom"
+      },
+      {
+        "@nome": "Luna Lovegood"
+      },
+      {
+        "@nome": "Xenophilius Lovegood"
+      },
+      {
+        "@nome": "Remus Lupin"
+      },
+      {
+        "@nome": "Teddy Lupin"
+      }
+    ],
+    "m": [{
+        "@nome": "Walden Macnair"
+      },
+      {
+        "@nome": "Draco Malfoy"
+      },
+      {
+        "@nome": "Lucius Malfoy"
+      },
+      {
+        "@nome": "Narcissa Malfoy"
+      },
+      {
+        "@nome": "Scorpius Malfoy"
+      },
+      {
+        "@nome": "Madam Malkin"
+      },
+      {
+        "@nome": "Griselda Marchbanks"
+      },
+      {
+        "@nome": "Olympe Maxime"
+      },
+      {
+        "@nome": "Ernie Macmillan"
+      },
+      {
+        "@nome": "Minerva McGonagall"
+      },
+      {
+        "@nome": "Cormac McLaggen"
+      },
+      {
+        "@nome": "Graham Montague"
+      },
+      {
+        "@nome": "Alastor (Mad-Eye) Moody"
+      }
+    ],
+    "n": {
+      "persona": {
+        "@nome": "Theodore Nott"
+      }
+    },
+    "o": [{
+        "@nome": "Bob Ogden"
+      },
+      {
+        "@nome": "Garrick Ollivander"
+      }
+    ],
+    "p": [{
+        "@nome": "Pansy Parkinson"
+      },
+      {
+        "@nome": "Padma Patil"
+      },
+      {
+        "@nome": "Parvati Patil"
+      },
+      {
+        "@nome": "Peter Pettigrew"
+      },
+      {
+        "@nome": "Antioch Peverell"
+      },
+      {
+        "@nome": "Cadmus Peverell"
+      },
+      {
+        "@nome": "Ignotus Peverell"
+      },
+      {
+        "@nome": "Irma Pince"
+      },
+      {
+        "@nome": "Sturgis Podmore"
+      },
+      {
+        "@nome": "Poppy Pomfrey"
+      },
+      {
+        "@nome": "Harry Potter"
+      },
+      {
+        "@nome": "James Potter"
+      },
+      {
+        "@nome": "Lily Potter"
+      },
+      {
+        "@nome": "Albus Severus Potter"
+      },
+      {
+        "@nome": "James Sirius Potter"
+      },
+      {
+        "@nome": "Lily Luna Potter"
+      }
+    ],
+    "q": {
+      "persona": {
+        "@nome": "Quirinus Quirrell"
+      }
+    },
+    "r": [{
+        "@nome": "Helena Ravenclaw/The Grey Lady"
+      },
+      {
+        "@nome": "Mary Riddle"
+      },
+      {
+        "@nome": "Thomas Riddle Sr."
+      },
+      {
+        "@nome": "Thomas Riddle Jr."
+      },
+      {
+        "@nome": "Thomas Marvolo Riddle"
+      },
+      {
+        "@nome": "Demelza Robins"
+      },
+      {
+        "@nome": "Algustus Rookwood"
+      },
+      {
+        "@nome": "Thorfinn Rowle"
+      },
+      {
+        "@nome": "Albert Runcorn"
+      }
+    ],
+    "s": [{
+        "@nome": "Newt Scamander"
+      },
+      {
+        "@nome": "Rufus Scrimgeour"
+      },
+      {
+        "@nome": "Kingsley Shacklebolt"
+      },
+      {
+        "@nome": "Stan Shunpike"
+      },
+      {
+        "@nome": "Aurora Sinistra"
+      },
+      {
+        "@nome": "Rita Skeeter"
+      },
+      {
+        "@nome": "Horace Slughorn"
+      },
+      {
+        "@nome": "Salazar Slytherin"
+      },
+      {
+        "@nome": "Zacarias Smith"
+      },
+      {
+        "@nome": "Severus Snape"
+      },
+      {
+        "@nome": "Alicia Spinnet"
+      },
+      {
+        "@nome": "Pomona Sprout"
+      }
+    ],
+    "t": [{
+        "@nome": "Pius Thicknesse"
+      },
+      {
+        "@nome": "Dean Thomas"
+      },
+      {
+        "@nome": "Andromeda Tonks"
+      },
+      {
+        "@nome": "Nymphadora Tonks"
+      },
+      {
+        "@nome": "Ted Tonks"
+      },
+      {
+        "@nome": "Sybill Trelawney"
+      },
+      {
+        "@nome": "Wilkie Twycross"
+      }
+    ],
+    "u": {
+      "persona": {
+        "@nome": "Dolores Umbridge"
+      }
+    },
+    "v": [{
+        "@nome": "Emmeline Vance"
+      },
+      {
+        "@nome": "Romilda Vane"
+      },
+      {
+        "@nome": "Septima Vector"
+      },
+      {
+        "@nome": "Lord Voldemort"
+      }
+    ],
+    "w": [{
+        "@nome": "Myrtle Warren/Moaning Myrtle"
+      },
+      {
+        "@nome": "Arthur Weasley"
+      },
+      {
+        "@nome": "Bill Weasley"
+      },
+      {
+        "@nome": "Charlie Weasley"
+      },
+      {
+        "@nome": "Fred Weasley"
+      },
+      {
+        "@nome": "George Weasley"
+      },
+      {
+        "@nome": "Ginny Weasley"
+      },
+      {
+        "@nome": "Hugo Weasley"
+      },
+      {
+        "@nome": "Molly Weasley"
+      },
+      {
+        "@nome": "Percy Weasley"
+      },
+      {
+        "@nome": "Ron Weasley"
+      },
+      {
+        "@nome": "Rose Weasley"
+      },
+      {
+        "@nome": "Oliver Wood"
+      }
+    ],
+    "y": {
+      "persona": {
+        "@nome": "Corban Yaxley"
+      }
+    },
+    "z": {
+      "persona": {
+        "@nome": "Blaise Zabini"
+      }
+    }
+  },
+  "personagens-sem-sobrenome": {
+    "a": {
+      "persona": {
+        "@nome": "Aragog"
+      }
+    },
+    "b": [{
+        "@nome": "Bane"
+      },
+      {
+        "@nome": "Beedle the Bard"
+      },
+      {
+        "@nome": "The Bloody Baron"
+      },
+      {
+        "@nome": "Bogrod"
+      },
+      {
+        "@nome": "Buckbeak"
+      }
+    ],
+    "c": [{
+        "@nome": "Sir Cadogan"
+      },
+      {
+        "@nome": "Crookshanks"
+      }
+    ],
+    "d": {
+      "persona": {
+        "@nome": "Dobby"
+      }
+    },
+    "e": {
+      "persona": {
+        "@nome": "Errol"
+      }
+    },
+    "f": [{
+        "@nome": "Fang"
+      },
+      {
+        "@nome": "The Fat Friar"
+      },
+      {
+        "@nome": "The Fat Lady"
+      },
+      {
+        "@nome": "Fawkes"
+      },
+      {
+        "@nome": "Firenze"
+      }
+    ],
+    "g": [{
+        "@nome": "Gornuk"
+      },
+      {
+        "@nome": "Grawp"
+      },
+      {
+        "@nome": "Griphook"
+      }
+    ],
+    "h": [{
+        "@nome": "Hedwig"
+      },
+      {
+        "@nome": "Hokey"
+      }
+    ],
+    "k": {
+      "persona": {
+        "@nome": "Kreacher"
+      }
+    },
+    "m": [{
+        "@nome": "Magorian"
+      },
+      {
+        "@nome": "Great Aunt Muriel"
+      }
+    ],
+    "n": [{
+        "@nome": "Nagini"
+      },
+      {
+        "@nome": "Nearly Headless Nick"
+      },
+      {
+        "@nome": "Norbert"
+      }
+    ],
+    "p": [{
+        "@nome": "Peeves"
+      },
+      {
+        "@nome": "Pigwidgeon"
+      }
+    ],
+    "r": [{
+        "@nome": "Madame Rosmerta"
+      },
+      {
+        "@nome": "Ronan"
+      }
+    ],
+    "s": [{
+        "@nome": "Scabbers"
+      },
+      {
+        "@nome": "Scabior"
+      }
+    ],
+    "t": [{
+        "@nome": "Travers"
+      },
+      {
+        "@nome": "Trevor"
+      }
+    ],
+    "w": {
+      "persona": {
+        "@nome": "Winky"
+      }
+    }
+  }
+}
