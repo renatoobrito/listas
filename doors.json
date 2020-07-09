@@ -1,0 +1,206 @@
+{
+  "the doors": {
+    "albums": {
+      "the doors": {
+        "released": "1967-01-04",
+        "genre": "psychedelic rock, acid rock, blues rock",
+        "length": "44:48",
+        "studio/label": "sunset sound recorders, elektra - hollywood, california",
+        "producer": "paul a. rothchild",
+        "personnel": "jim morrison - vocals, ray manzarek - organ/piano/bass, robby krieger - guitar, john densmore - drums",
+        "side a": {
+          "1": "break on through (to the other side)",
+          "2": "soul kitchen",
+          "3": "the crystal ship",
+          "4": "twentieth century fox",
+          "5": "alabama song (whisky bar)",
+          "6": "light my fire"
+        },
+        "side b": {
+          "1": "back door man",
+          "2": "i looked at you",
+          "3": "end of the night",
+          "4": "take it as it come",
+          "5": "the end"
+        }
+      },
+      "strange days": {
+        "released": "1967-09-25",
+        "genre": "psychedelic rock, acid rock",
+        "length": "35:25",
+        "studio/label": "elektra",
+        "producer": "paul a. rothchild",
+        "personnel": "jim morrison - vocals, ray manzarek - keyboards/marimba, robby krieger - guitar, john densmore - drums",
+        "side a": {
+          "1": "strange days",
+          "2": "you're lost a little girl",
+          "3": "love me two times",
+          "4": "unhappy girl",
+          "5": "horse latitudes",
+          "6": "moonlight drive"
+        },
+        "side b": {
+          "1": "people are strange",
+          "2": "my eyes have seen you",
+          "3": "i can't see your face in my mind",
+          "4": "when the music's over"
+        }
+      },
+      "waiting for the sun": {
+        "released": "1968-07-03",
+        "genre": "psychedelic rock, acid rock",
+        "length": "33:10",
+        "studio/label": "elektra",
+        "producer": "paul a. rothchild",
+        "personnel": "jim morrison - vocals, ray manzarek - keyboars, robby krieger - guitar, john densmore - drums",
+        "side a": {
+          "1": "hello i love you",
+          "2": "love street",
+          "3": "not to touch the earth",
+          "4": "summer's almost gone",
+          "5": "wintertime love",
+          "6": "the unknown soldier"
+        },
+        "side b": {
+          "1": "spanish caravan",
+          "2": "my wild love",
+          "3": "we could be so good together",
+          "4": "yes, the river knows",
+          "5": "five to one"
+        }
+      },
+      "the soft parade": {
+        "released": "1969-07-18",
+        "genre": "psychedelic rock, jazz fusion, blues rock, art rock",
+        "length": "33:50",
+        "studio/label": "elektra",
+        "producer": "paul a. rothchild",
+        "personnel": "jim morrison - vocals, ray manzarek - keyboards, robby krieger - guitar/chorus vocal on runnin' blue, john densmore - drums",
+        "side a": {
+          "1": "tell all the people",
+          "2": "touch me",
+          "3": "shaman's blues",
+          "4": "do it",
+          "5": "easy ride"
+        },
+        "side b": {
+          "1": "wild child",
+          "2": "running blue",
+          "3": "wishful sinful",
+          "4": "the soft parade"
+        }
+      },
+      "morrison hotel": {
+        "released": "1970-02-09",
+        "genre": "psychedelic rock, blues rock",
+        "length": "37:47",
+        "studio/label": "elektra sound recorders, elektra - los angeles",
+        "producer": "paul a. rothchild",
+        "personnel": "jim morrison - vocals, ray manzarek - piano/organ/tack piano on roadhouse blues, robby krieger - guitar, john densmore - drums",
+        "side a: hard rock cafe": {
+          "1": "roadhouse blues",
+          "2": "waiting for the sun",
+          "3": "you make me real",
+          "4": "peace frog",
+          "5": "blue sunday",
+          "6": "ship of fools"
+        },
+        "side b: morrison hotel": {
+          "1": "land ho!",
+          "2": "the spy",
+          "3": "queen of the highway",
+          "4": "indian summer",
+          "5": "maggie m'gill"
+        }
+      },
+      "l.a. woman": {
+        "released": "1971-04-19",
+        "genre": "psychedelic rock, blues rock",
+        "length": "48:24",
+        "studio/label": "the doors workshop, elektra - los angeles, california",
+        "producer": "the doors, bruce botnick",
+        "personnel": "jim morrison - vocals, ray manzarek - piano/organ, robby krieger - guitar, john densmore - drums",
+        "side a": {
+          "1": "the changeling",
+          "2": "love her madly",
+          "3": "been down so long",
+          "4": "cars hiss by my window",
+          "5": "l.a. woman"
+        },
+        "side b": {
+          "1": "l'america",
+          "2": "hyacinth house",
+          "3": "crawling king snake",
+          "4": "the wasp (texas radio and the big beat)",
+          "5": "riders on the storm"
+        }
+      },
+      "other voices": {
+        "released": "1971-10-18",
+        "genre": "rock",
+        "length": "39:42",
+        "studio/label": "elektra",
+        "producer": "the doors, bruce botnick",
+        "personnel": "ray manzarek - vocals/keyboards, robby krieger - vocals/guitar/harmonica, john densmore - drums",
+        "side a": {
+          "1": "in the eye of the sun",
+          "2": "variety is the spice of life",
+          "3": "ships with sails",
+          "4": "tightrope ride"
+        },
+        "side b": {
+          "1": "down on the farm",
+          "2": "i'm horny, i'm stoned",
+          "3": "wandering musician",
+          "4": "hang on to your life"
+        }
+      },
+      "full circles": {
+        "released": "1972-07-15",
+        "genre": "funk rock, jazz rock",
+        "length": "40:05",
+        "studio/label": "a&m studios, elektra - hollywood, california",
+        "producer": "the doors",
+        "personnel": "ray manzarek - vocals/keyboards, robby krieger - vocals/guitar/harmonica, john densmore - drums",
+        "side a": {
+          "1": "get up and dance",
+          "2": "4 billion souls",
+          "3": "verdilac",
+          "4": "hardwood floor",
+          "5": "good rocking"
+        },
+        "side b": {
+          "1": "the mosquito",
+          "2": "the piano bird",
+          "3": "it slipped my mind",
+          "4": "the peking king and the new york queen"
+        }
+      },
+      "an american prayer": {
+        "released": "1978-11-17",
+        "genre": "psychedelic rock, spoken word, poetry, funk rock, musique concrète",
+        "length": "38:28",
+        "studio/label": "elektra/asylum records",
+        "producer": "john haeny, ray manzarek, robby krieger, john densmore, frank lisciandro",
+        "personnel": "jim morrison - vocals/spoken word, ray manzarek keyboards/piano bass, robby krieger - guitar, john densmore - drums",
+        "side a": {
+          "1": {
+            "awake": ["ghost song", "dawn's highway", "newborn awakening"]
+          },
+          "2": {
+            "to come of age": ["black polished chrome", "latino chrome", "angels and sailors", "stoned immaculated"]
+          },
+          "3": {
+            "the poets dream": ["the movie", "curses invocatios"]
+          }
+        },
+        "side b": {
+          "1": {
+            "the world on fire": ["american night", "roadhouse blues", "lament", "the hitchhiker"]
+          },
+          "2": "an american prayer"
+        }
+      }
+    }
+  }
+}
